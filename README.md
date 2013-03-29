@@ -7,7 +7,7 @@ Facts
 - version: 0.1.0
 - extension key: Spranks_StorePickup
 - [extension on GitHub](https://github.com/company/Spranks_StorePickup)
-- [direct download link](http://connect.magentocommerce.com/community/get/Spranks_StorePickup-0.1.0.tgz)
+- [direct download link](https://github.com/sprankhub/Spranks_StorePickup/archive/master.zip)
 
 Description
 -----------
@@ -44,8 +44,8 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 
 Developer
 ---------
-Simon Sprankel
-[http://www.simonsprankel.com](http://www.simonsprankel.com)
+Simon Sprankel  
+[http://www.simonsprankel.com](http://www.simonsprankel.com)  
 [@SimonSprankel](https://twitter.com/SimonSprankel)
 
 Licence
