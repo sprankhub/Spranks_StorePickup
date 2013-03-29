@@ -1,0 +1,15 @@
+{
+    "name":"Spranks/StorePickup",
+    "type":"magento-module",
+    "license":"OSL-3.0",
+    "homepage":"https://github.com/sprankhub/Spranks_StorePickup",
+    "description":"This extension provides a new, simple shipping method 'Store Pickup'.",
+    "authors":[
+        {
+            "name":"Simon Sprankel"
+        }
+    ],
+    "require":{
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}

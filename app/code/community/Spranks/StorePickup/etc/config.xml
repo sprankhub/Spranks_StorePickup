@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Spranks_StorePickup>
+            <version>0.1.0</version>
+        </Spranks_StorePickup>
+    </modules>
+    <global>
+        <models>
+            <spranks_storepickup>
+                <class>Spranks_StorePickup_Model</class>
+            </spranks_storepickup>
+        </models>
+    </global>
+    <default>
+        <carriers>
+            <spranks_storepickup>
+                <active>0</active>
+                <sallowspecific>0</sallowspecific>
+                <model>spranks_storepickup/carrier_storepickup</model>
+                <name>in our shop: Street 1, 12345 City</name>
+                <title>Store Pickup</title>
+                <specificerrmsg>This shipping method is currently unavailable.If you would like to ship using this shipping method, please contact us.</specificerrmsg>
+            </spranks_storepickup>
+        </carriers>
+    </default>
+</config>
